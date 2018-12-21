@@ -8,8 +8,8 @@
 + drivers    (驱动)
 + report    (报告)
 + test    (测试用例)
-   1. case (用例文件)
-   2. common (跟项目、页面无关的封装)
-   3. page (页面)
-   4. suite (测试套件，用来阻止用例)
+   + case (用例文件)
+   + common (跟项目、页面无关的封装)
+   + page (页面)
+   + suite (测试套件，用来阻止用例)
 
